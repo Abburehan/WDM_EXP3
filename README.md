@@ -157,7 +157,7 @@ visualize_patterns_line(party_wear_result, 'Party Wear')
 ### Output:
 ![Screenshot 2025-04-12 134551](https://github.com/user-attachments/assets/98d0ab77-503b-452d-b632-4b717129545e)
 
-![Uploading Screenshot 2025-04-12 134636.png…]()
+![Screenshot 2025-04-12 134636](https://github.com/user-attachments/assets/82da51dd-82bb-4be4-b7c8-0b7c6ae3a1fd)
 
 ### Result:
 Thus, the implementation of the GSP algorithm in Python has been successfully executed.
